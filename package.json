@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AhmedElAtari/demoProject/issues"
   },
-  "homepage": "https://github.com/AhmedElAtari/demoProject#readme"
+  "homepage": "https://github.com/AhmedElAtari/demoProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
